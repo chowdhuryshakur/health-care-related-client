@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.title{
+    color: #1A76D1;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+}
+.subbrand{
+    color: #2D2E40 !important;
+    font-family: 'Poppins', sans-serif;
+}
+.button{
+    color: white;
+    background-color: #1A76D1;
+    border-radius: 5px;
+    border: none;
+    padding: 5px 15px;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+}
